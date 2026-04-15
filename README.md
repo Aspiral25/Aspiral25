@@ -5,7 +5,7 @@ In today's world, FOMO hits most of us at some point. We're constantly refreshin
 
 But here's what I've noticed..you guys are insanely capable.
 So let's stop just following the vibe and start creating it. 🚀</h2>
-<h3 align="center">Senior Vibe Engineer from Penang</h3>
+<h3 align="center">Senior 'Vibe' Engineer from Penang</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Upcoming+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
@@ -15,7 +15,21 @@ So let's stop just following the vibe and start creating it. 🚀</h2>
 
 - 🔭 I'm currently working on **CarwashManagementSystem**
 - 📫 How to reach me: **[aspiraltroziest@gmail.com]**
-- ⚡ Fun fact: **I've held a Nokia 33xx series in the '90s, rocked a Sony Walkman phone as a teen, flexed a Blackberry in college, tried the Samsung Galaxy S, and then… 🍎💸 trapped me...Once you're in the ecosystem, there's no turning back. iPhone 4S, 5S, 6S+, 11 Pro. Haven't escaped since. Send help.😅**
+- I've held a Nokia 33xx series in the '90s, rocked a Sony Walkman phone as a teen, flexed a Blackberry in college, tried the Samsung Galaxy S, and then… 🍎💸 trapped me...Once you're in the ecosystem, there's no turning back. iPhone 4S, 5S, 6S+, 11 Pro. Haven't escaped since. Send help.😅
+- **🎮 My Gaming Journey (A Millennial's Tale)** - 
+I've played Digipet as a kid. Then came GTA & Tony Hawk on PS1 in primary school. Got into XBOX FIFA at a mall's leisure park.
+Then my mom bought an Intel desktop PC, which I totally use to hack things around while playing Red Alert and Generals C&C. 😏
+At boarding school? That was the Ragnarok Online era. Grinding, farming, and making friends I never met.
+In college with an Acer laptop, I played:
+Moto GP 🏍️
+Dota (the original, yes) 🎯
+Lord of the Rings 🧙
+SimCity 🏙️
+Flight Simulator ✈️
+Peak gaming era, even with pixel graphics and terrible internet. We didn't care. We played anyway.
+Then phones happened. Suddenly, all of us were playing Clash of Clans and Mobile Legends. We never slept. We just... raided.
+Now? I occasionally log into Steam to pass bored times with OpenTTD and ANNO.
+It's been a journey. A beautiful, laggy, late-night, no-regrets millennial journey. 🎮✨
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
