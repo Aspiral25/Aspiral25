@@ -49,6 +49,7 @@ It's been a journey. A beautiful, laggy, late-night, no-regrets millennial journ
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
 ### 🎵 Vibes & Journey
 ![Vibe Follower](https://img.shields.io/badge/-Vibe%20Follower-FF69B4?style=flat-square&logo=spotify&logoColor=white)
