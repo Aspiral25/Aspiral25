@@ -1,10 +1,5 @@
 <!-- Top banner -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome+to+my+profile&height=150&fontSize=60&desc=feel%20free%20to+roam&descAlignY=75&descAlign=60" />
-<h2 align="center">👋 Hi there! I'm a vibe follower gais ,yes... for real.
-In today's world, FOMO hits most of us at some point. We're constantly refreshing, tracking, and staying plugged into what's happening around us minute by minute.
-
-But here's what I've noticed..you guys are insanely capable.
-So let's stop just following the vibe and start creating it. 🚀</h2>
 <h3 align="center">Senior 'Vibe' Engineer from Penang</h3>
 
 <p align="center">
